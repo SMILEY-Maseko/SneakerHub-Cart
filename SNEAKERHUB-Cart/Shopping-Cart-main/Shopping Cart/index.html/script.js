@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const product = [
         { id: 0, image: 'images/imageAF.jpg', title: 'Air Force 1', price: 150.00 },
-        { id: 1, image: 'images/imageAJ.jpg', title: 'Air Jordan', price: 40.00 },
-        { id: 2, image: 'images/imageAM.jpg', title: 'Air Max', price: 70.00 },
-        { id: 3, image: 'images/imageBL.jpg', title: 'Blaze', price: 30.00 },
-        { id: 4, image: 'images/imageHD.jpg', title: 'High Dunk', price: 80.00 },
-        { id: 5, image: 'images/imageLD.jpeg', title: 'Low Dunk', price: 90.00 },
+        { id: 1, image: 'images/imageAJ.jpg', title: 'Air Jordan', price: 240.00 },
+        { id: 2, image: 'images/imageAM.jpg', title: 'Air Max', price: 370.00 },
+        { id: 3, image: 'images/imageBL.jpg', title: 'Blaze', price: 230.00 },
+        { id: 4, image: 'images/imageHD.jpg', title: 'High Dunk', price: 280.00 },
+        { id: 5, image: 'images/imageLD.jpeg', title: 'Low Dunk', price: 190.00 },
     ];
 
     const categories = [...new Set(product.map((item) => { return item }))];
