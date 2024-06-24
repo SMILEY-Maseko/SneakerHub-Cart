@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const product = [
-        { id: 0, image: 'images/imageAF.jpg', title: 'Air Force 1', price: 50.00 },
+        { id: 0, image: 'images/imageAF.jpg', title: 'Air Force 1', price: 150.00 },
         { id: 1, image: 'images/imageAJ.jpg', title: 'Air Jordan', price: 40.00 },
         { id: 2, image: 'images/imageAM.jpg', title: 'Air Max', price: 70.00 },
         { id: 3, image: 'images/imageBL.jpg', title: 'Blaze', price: 30.00 },
