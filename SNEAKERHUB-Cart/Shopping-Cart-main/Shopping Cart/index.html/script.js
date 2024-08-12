@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 1, image: 'images/carrot.jpg', title: 'Air Jordan', price: 240.00 },
         { id: 2, image: 'images/cinnamon.jpg', title: 'Air Max', price: 370.00 },
         { id: 3, image: 'images/croissant.jpg', title: 'Blaze', price: 230.00 },
-        { id: 4, image: 'images/pretzel.jpg', title: 'High Dunk', price: 280.00 },
-        { id: 5, image: 'images/imageLD.jpeg', title: 'Low Dunk', price: 190.00 },
+        { id: 4, image: 'images/apri.jpg', title: 'High Dunk', price: 280.00 },
+        { id: 5, image: 'images/.jpeg', title: 'Low Dunk', price: 190.00 },
     ];
 
     const categories = [...new Set(product.map((item) => { return item }))];
