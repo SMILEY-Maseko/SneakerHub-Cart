@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', () => {
     const product = [
-        { id: 0, image: 'images/image', title: 'Air Force 1', price: 150.00 },
-        { id: 1, image: 'images/imageAJ.jpg', title: 'Air Jordan', price: 240.00 },
-        { id: 2, image: 'images/imageAM.jpg', title: 'Air Max', price: 370.00 },
-        { id: 3, image: 'images/imageBL.jpg', title: 'Blaze', price: 230.00 },
-        { id: 4, image: 'images/imageHD.jpg', title: 'High Dunk', price: 280.00 },
+        { id: 0, image: 'images/baguette.jpg', title: 'Air Force 1', price: 150.00 },
+        { id: 1, image: 'images/carrot.jpg', title: 'Air Jordan', price: 240.00 },
+        { id: 2, image: 'images/cinnamon.jpg', title: 'Air Max', price: 370.00 },
+        { id: 3, image: 'images/croissant.jpg', title: 'Blaze', price: 230.00 },
+        { id: 4, image: 'images/pretzel.jpg', title: 'High Dunk', price: 280.00 },
         { id: 5, image: 'images/imageLD.jpeg', title: 'Low Dunk', price: 190.00 },
     ];
 
