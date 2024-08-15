@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 2, image: 'images/imageAM.jpg', title: 'AIR MAX', price: 370.00 },
         { id: 3, image: 'images/imageBL.jpg', title: 'BLAZE', price: 230.00 },
         { id: 4, image: 'images/imageHD.jpg', title: 'HIGH DUNK', price: 280.00 },
-        { id: 5, image: 'images/imageLD.jpg', title: 'LOW DUNK', price: 190.00 },
+        { id: 5, image: 'images/imageLD.jpeg', title: 'LOW DUNK', price: 190.00 },
     ];
 
     const categories = [...new Set(product.map((item) => { return item }))];
